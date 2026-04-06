@@ -1,6 +1,6 @@
 Sistema para gerenciamento de dados de filmes via API REST utilizando Flask para o servidor e Pandas para manipulação de arquivos CSV.
 
-Arquitetura
+**Arquitetura**
 
 O projeto é dividido em dois scripts:
 
