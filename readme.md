@@ -1,4 +1,4 @@
-Sistema para gerenciamento de dados de filmes via API REST utilizando Flask para o servidor e Pandas para manipulação de arquivos CSV.
+**Sistema para gerenciamento de dados de filmes via API REST utilizando Flask para o servidor e Pandas para manipulação de arquivos CSV.**
 
 **Arquitetura**
 
@@ -8,7 +8,7 @@ O projeto é dividido em dois scripts:
 
     cliente.py (Cliente): Realiza chamadas para testar as funcionalidades da API.
 
-Requisitos de Instalação
+**Requisitos de Instalação**
 
 O projeto utiliza um ambiente virtual. Para instalar as dependências exatas, utilize o arquivo requirements.txt.
 
@@ -23,7 +23,7 @@ O projeto utiliza um ambiente virtual. Para instalar as dependências exatas, ut
 
     pip install -r requirements.txt
 
-Como Executar
+**Como Executar**
 
     Inicie o servidor:
     Bash
